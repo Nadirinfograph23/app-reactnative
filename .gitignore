@@ -1,0 +1,10 @@
+node_modules/
+npm-debug.log
+yarn-error.log
+build/
+android/.gradle
+android/app/build/
+android/local.properties
+*.keystore
+!debug.keystore
+ios/Pods
